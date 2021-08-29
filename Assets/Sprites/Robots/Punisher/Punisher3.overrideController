@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Punisher3
+  m_Controller: {fileID: 9100000, guid: 267821cc1b927d045ba2275fff600106, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 13022c1923a111e4393c9a191535480b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 76c80fa684e70ee45926f879b4c82efe, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a9928f2fbcd36fb47a5911dfdeb7f12a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c73f44d79f84bf947a0f3c5a4db3f270, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eae59120e829aab4f804a6a0055459ab, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ad43e3340f8be0b4da4f706f932f2536, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2a872f92a2827c244b8c61456a5774c5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e71bf64f1db8c6b41b65642902e9a8d6, type: 2}
